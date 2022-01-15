@@ -10,7 +10,7 @@
 
 > **Todos os comandos estão documentados em ;ajuda**
 
-> **O bot é feito em python para a Hm sintasse livre para editar o codigo e me informar de uma melhoria ou de uma correção de bug!**
+> **O bot é feito em python para a Hm sintas-se livre para editar o codigo e me informar de uma melhoria ou de uma correção de bug!**
 
 # **Para developers**
 
