@@ -2,7 +2,7 @@
 
 > Bot feito em python para a moderação e etc da House mods
 
-> Atualmente em fase de testes porém usável 
+> Atualmente em fase beta
 
 #  **Visão Geral**
 
