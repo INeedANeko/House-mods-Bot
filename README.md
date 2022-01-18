@@ -1,4 +1,4 @@
-# **House mods | Bot** *"Flower Ver"*
+# **House mods | Bot** *"Cod. Flower*
 
 > Bot feito em python para a moderação e etc da House mods
 
@@ -8,9 +8,9 @@
 
 ![preview](/preview.png)
 
-> **Todos os comandos estão documentados em ;ajuda**
+> **Quase todos os comandos estão documentados em ;ajuda**
 
-> **O bot é feito em python para a Hm sintas-se livre para editar o codigo e me informar de uma melhoria ou de uma correção de bug!**
+> **O bot é feito em python para a Hm sinta-se livre para editar o codigo e me informar de uma melhoria ou de uma correção de bug!**
 
 # **Para developers**
 
@@ -23,7 +23,7 @@
 
 > Instale o python dependendo de qual sistema você esteja usando e instale o discord.py por pip
 
-> Em seguida edite o token no main.py e o execute-o
+> Em seguida edite o token no main.py e o execute-o, caso esteja no pc recomendo o uso do vscode
 
 **Pronto! Simples assim**
 
